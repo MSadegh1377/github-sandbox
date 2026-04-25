@@ -91,7 +91,7 @@ The resulting archive will be named like: `archive_20250423_153012.zip`
 
 ## 👀 Checking the result
 
-After committing, you can monitor the workflow:
+After committing, you can monitor the workflow:  
 
 1. Click the **Actions** tab in your repository
 2. Click the latest workflow run to see progress and logs
